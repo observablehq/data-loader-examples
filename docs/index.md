@@ -9,7 +9,7 @@ This project is a collection of data loaders ready to be quickly explored and re
 
 Each page gathers examples of data loaders written in a given language (Python, shell script, JavaScript, etc.). It includes both their code and how to access their outputs.
 
-Or, view the whole collection [on GitHub](https://github.com/observablehq/framework/tree/allison/data-loaders-examples/examples/data-loaders).
+Or, view the whole collection [on GitHub](https://github.com/observablehq/data-loader-examples).
 
 ### Python data loaders
 
